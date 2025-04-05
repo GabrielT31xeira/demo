@@ -71,7 +71,7 @@ Instalação
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/demo.git
+git clone https://github.com/GabrielT31xeira/demo.git
 cd demo
 ```
 
